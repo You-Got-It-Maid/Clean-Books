@@ -1,0 +1,6 @@
+node_modules/
+playwright-report/
+test-results/
+.last-run.json
+test_output.txt
+playwright_version.txt
